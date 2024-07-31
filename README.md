@@ -7,3 +7,5 @@ Technologies Used Frontend React.js: A JavaScript library for building user inte
 Clone the Repositories with git clone https://github.com/chelohalo/trueNorth_backend and https://github.com/chelohalo/trueNorth_frontend
 
 Install dependencies and run the application npm install npm run dev
+
+NOTE: Create your own .env file based on the .env.example.
